@@ -1,6 +1,8 @@
 name: Java CI/CD with Docker
 
 #token authentication fixed
+#docker download
+
 on:
   push:
     branches: [ "main" ]
